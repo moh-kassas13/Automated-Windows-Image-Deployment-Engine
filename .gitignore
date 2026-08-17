@@ -1,0 +1,13 @@
+# Ignore large image files (Store WIMs locally or as GitHub Release assets)
+*.wim
+*.esd
+*.iso
+
+# Ignore generated PDFs and documentation artifacts
+*.pdf
+
+# System & Editor temporary files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
