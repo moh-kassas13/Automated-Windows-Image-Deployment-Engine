@@ -7,7 +7,7 @@ $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Definition
 
 Clear-Host
 Write-Host "==================================================" -ForegroundColor Cyan
-Write-Host "     AUB AUTOMATED WINPE DEPLOYMENT SYSTEM     " -ForegroundColor Cyan
+Write-Host "     COM AUTOMATED WINPE DEPLOYMENT SYSTEM     " -ForegroundColor Cyan
 Write-Host "      Author & Developer: Mohammad Kassas      " -ForegroundColor Yellow
 Write-Host "==================================================" -ForegroundColor Cyan
 Write-Host ""
